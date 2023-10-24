@@ -1,1 +1,2 @@
-primeiro commit
+primeiro commitgit status
+Commit com mais informações
