@@ -1,2 +1,2 @@
 primeiro commitgit status
-Commit com mais informações
+mudar commit
